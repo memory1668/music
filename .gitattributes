@@ -1,2 +1,2 @@
-*.wxml linguist-language=javascript
-*.wxss linguist-language=javascript
+*.wxml linguist-language=JavaScript
+*.wxss linguist-language=JavaScript
